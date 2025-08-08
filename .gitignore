@@ -1,0 +1,57 @@
+# ===========================
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints/
+
+# ===========================
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# ===========================
+# IDE/editor config
+.vscode/
+.idea/
+
+# ===========================
+# Jupyter notebook config & output
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ===========================
+# Model weights & checkpoints
+*.pt
+*.h5
+*.onnx
+*.tflite
+*.ckpt
+
+# ===========================
+# Training output (YOLOv9 specific)
+runs/
+yolov9/runs/
+
+# ===========================
+# Video, images & large data
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+uploads/
+data/
+datasets/
+
+# ===========================
+# Logs
+*.log
+
+# ===========================
+# System files
+.DS_Store
+Thumbs.db

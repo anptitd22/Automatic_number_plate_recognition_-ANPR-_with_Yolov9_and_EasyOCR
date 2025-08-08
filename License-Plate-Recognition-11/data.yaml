@@ -1,0 +1,6 @@
+names:
+- License_Plate
+nc: 1
+train: /Automatic_number_plate_recognition_(ANPR)_with_Yolov9_and_EasyOCR/License-Plate-Recognition-11/train/images
+val: /Automatic_number_plate_recognition_(ANPR)_with_Yolov9_and_EasyOCR/License-Plate-Recognition-11/valid/images
+test: /Automatic_number_plate_recognition_(ANPR)_with_Yolov9_and_EasyOCR/License-Plate-Recognition-11/test/images
